@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/gorilla/websocket"
+	"go.smantic.dev/websocket"
 )
 
 var (
