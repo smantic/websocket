@@ -1,3 +1,3 @@
-module github.com/gorilla/websocket
+module go.smantic.dev/websocket
 
 go 1.12

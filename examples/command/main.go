@@ -14,7 +14,7 @@ import (
 	"os/exec"
 	"time"
 
-	"github.com/gorilla/websocket"
+	"go.smantic.dev/websocket"
 )
 
 var (
