@@ -1,5 +1,6 @@
 # go.smantic.dev/WebSocket
 
+
 [![GoDoc](https://godoc.org/go.smantic.dev/websocket?status.svg)](https://godoc.org/go.smantic.dev/websocket)
 
 WebSocket is a [Go](http://golang.org/) implementation of the
