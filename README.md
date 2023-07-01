@@ -1,4 +1,4 @@
-# go.smantic.dev/WebSocket
+# go.smantic.dev/websocket
 
 [![GoDoc](https://godoc.org/go.smantic.dev/websocket?status.svg)](https://godoc.org/go.smantic.dev/websocket)
 
@@ -17,9 +17,13 @@ WebSocket is a [Go](http://golang.org/) implementation of the
 
 ### Status
 
-The Gorilla WebSocket package provides a complete and tested implementation of
+ WebSocket package provides a complete and tested implementation of
 the [WebSocket](http://www.rfc-editor.org/rfc/rfc6455.txt) protocol. The
 package API is stable.
+
+This project is a fork of gorilla/websocket.   
+No feature development will be done on this package, only security issues and critical fixes.  
+If you would like to raise an issue please contact me at tyler@smantic.dev  
 
 ### Installation
 
